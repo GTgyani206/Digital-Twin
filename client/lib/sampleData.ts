@@ -1,0 +1,21 @@
+export const sampleData = {
+  "Heart Rate": "72 bpm",
+  "Blood Pressure": "120/80 mmHg",
+  "Respiratory Rate": "14 breaths/min",
+  "Body Temperature": "36.6 °C",
+  "Oxygen Saturation": "98%",
+  "Blood Glucose": "95 mg/dL",
+  "Total Cholesterol": "180 mg/dL",
+  "LDL Cholesterol": "100 mg/dL",
+  "HDL Cholesterol": "50 mg/dL",
+  "Triglycerides": "150 mg/dL",
+  "Step Count": "8,500 steps",
+  "VO2 Max": "42 mL/kg/min",
+  "Heart Rate Variability": "65 ms",
+  "Sleep Duration": "7.5 hrs/night",
+  "Sleep Efficiency": "85%",
+  "Cortisol Levels": "15 µg/dL",
+  "Water Intake": "2.5 L/day",
+  "Macronutrient Balance": "50% carbs, 30% protein, 20% fat",
+}
+
